@@ -1,0 +1,17 @@
+/Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/bin/Debug/net8.0/ProjetCSharp
+/Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/bin/Debug/net8.0/ProjetCSharp.deps.json
+/Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/bin/Debug/net8.0/ProjetCSharp.runtimeconfig.json
+/Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/bin/Debug/net8.0/ProjetCSharp.dll
+/Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/bin/Debug/net8.0/ProjetCSharp.pdb
+/Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/obj/Debug/net8.0/ProjetCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/obj/Debug/net8.0/ProjetCSharp.AssemblyInfoInputs.cache
+/Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/obj/Debug/net8.0/ProjetCSharp.AssemblyInfo.cs
+/Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/obj/Debug/net8.0/ProjetCSharp.csproj.CoreCompileInputs.cache
+/Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/obj/Debug/net8.0/ProjetCSharp.dll
+/Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/obj/Debug/net8.0/refint/ProjetCSharp.dll
+/Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/obj/Debug/net8.0/ProjetCSharp.pdb
+/Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/obj/Debug/net8.0/ProjetCSharp.genruntimeconfig.cache
+/Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/obj/Debug/net8.0/ref/ProjetCSharp.dll
+/Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/obj/Debug/net8.0/ProjetCSharp.csproj.AssemblyReference.cache
+/Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/obj/Debug/net8.0/ProjetCSharp.csproj.CopyComplete
