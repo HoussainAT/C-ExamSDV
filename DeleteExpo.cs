@@ -28,7 +28,7 @@ public class DeleteExpo
                     var expoASupprimer = expositions[index - 1];
                     expositions.RemoveAt(index - 1);
 
-                    string jsonString = JsonSerializer.Serialize(expositions);
+                    string jsonString = JsonSerializer.Serialize(expositions); 
                     File.WriteAllText(filename, jsonString);
 
                     Console.WriteLine($"Exposition '{expoASupprimer.NomExpo}' supprimée avec succès.");

@@ -15,3 +15,4 @@
 /Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/obj/Debug/net8.0/ProjetCSharp.csproj.AssemblyReference.cache
 /Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/bin/Debug/net8.0/Newtonsoft.Json.dll
 /Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/obj/Debug/net8.0/ProjetCSharp.csproj.CopyComplete
+/Users/houssain/Library/CloudStorage/OneDrive-SUPDEVINCI/B2/CSharp/ProjetCSharp/obj/Debug/net8.0/ProjetCSharp.sourcelink.json
